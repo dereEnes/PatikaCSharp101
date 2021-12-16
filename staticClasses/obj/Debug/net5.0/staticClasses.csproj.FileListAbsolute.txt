@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.exe
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.deps.json
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.dll
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\ref\staticClasses.dll
+C:\kamp\C#\Patika\C# 101\staticClasses\bin\Debug\net5.0\staticClasses.pdb
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.dll
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\ref\staticClasses.dll
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.pdb
+C:\kamp\C#\Patika\C# 101\staticClasses\obj\Debug\net5.0\staticClasses.genruntimeconfig.cache
