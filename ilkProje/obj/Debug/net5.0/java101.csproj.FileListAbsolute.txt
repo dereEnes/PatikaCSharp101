@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.exe
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.deps.json
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.runtimeconfig.json
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.runtimeconfig.dev.json
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.dll
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\ref\java101.dll
+C:\kamp\C#\Patika\java101\bin\Debug\net5.0\java101.pdb
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.AssemblyInfo.cs
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.dll
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\ref\java101.dll
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.pdb
+C:\kamp\C#\Patika\java101\obj\Debug\net5.0\java101.genruntimeconfig.cache
