@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.exe
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.deps.json
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.dll
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\ref\tipDonusumleri.dll
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\bin\Debug\net5.0\tipDonusumleri.pdb
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.dll
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\ref\tipDonusumleri.dll
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.pdb
+C:\kamp\C#\Patika\C# 101\tipDonusumleri\obj\Debug\net5.0\tipDonusumleri.genruntimeconfig.cache
