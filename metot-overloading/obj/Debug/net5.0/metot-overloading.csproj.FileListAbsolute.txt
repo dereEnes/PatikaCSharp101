@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.exe
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.deps.json
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.dll
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\ref\metot-overloading.dll
+C:\kamp\C#\Patika\C# 101\metot-overloading\bin\Debug\net5.0\metot-overloading.pdb
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.dll
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\ref\metot-overloading.dll
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.pdb
+C:\kamp\C#\Patika\C# 101\metot-overloading\obj\Debug\net5.0\metot-overloading.genruntimeconfig.cache
