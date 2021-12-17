@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.exe
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.deps.json
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.dll
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\ref\string-metotlari.dll
+C:\kamp\C#\Patika\C# 101\string-metotlari\bin\Debug\net5.0\string-metotlari.pdb
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.dll
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\ref\string-metotlari.dll
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.pdb
+C:\kamp\C#\Patika\C# 101\string-metotlari\obj\Debug\net5.0\string-metotlari.genruntimeconfig.cache
