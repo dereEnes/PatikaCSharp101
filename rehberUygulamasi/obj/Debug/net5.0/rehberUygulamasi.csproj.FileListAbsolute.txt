@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.exe
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.deps.json
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.dll
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\ref\rehberUygulamasi.dll
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\bin\Debug\net5.0\rehberUygulamasi.pdb
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.dll
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\ref\rehberUygulamasi.dll
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.pdb
+C:\kamp\C#\Patika\C# 101\rehberUygulamasi\obj\Debug\net5.0\rehberUygulamasi.genruntimeconfig.cache
