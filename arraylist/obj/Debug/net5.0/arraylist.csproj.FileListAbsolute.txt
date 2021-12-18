@@ -1,0 +1,16 @@
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.exe
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.deps.json
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.json
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.runtimeconfig.dev.json
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.dll
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\ref\arraylist.dll
+C:\kamp\C#\Patika\C# 101\arraylist\bin\Debug\net5.0\arraylist.pdb
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.csprojAssemblyReference.cache
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfoInputs.cache
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.AssemblyInfo.cs
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.csproj.CoreCompileInputs.cache
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.dll
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\ref\arraylist.dll
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.pdb
+C:\kamp\C#\Patika\C# 101\arraylist\obj\Debug\net5.0\arraylist.genruntimeconfig.cache
